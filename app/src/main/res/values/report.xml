@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="report_title">BMI 報告</string>
+    <string name="report_back">前一頁</string>
+    <string name="overweight">歐，您過重了！</string>
+    <string name="underweight">歐，您太瘦了！</string>
+    <string name="bmi_too_high">您的 BMI 值過高</string>
+    <string name="notify_supervisor">通知監督人</string>
+</resources>

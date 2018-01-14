@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BMI_5_1</string>
+    <string name="bmi_height">身高 (cm)</string>
+    <string name="bmi_weight">體重 (kg)</string>
+    <string name="bmi_btn">計算 BMI 值</string>
+    <string name="bmi_result">你的 BMI 值是 </string>
+    <string name="dialog_title">關於 Android BMI </string>
+    <string name="dialog_message">Android BMI Calc </string>
+    <string name="dialog_button_confirm">確認 </string>
+    <string name="dialog_button_cancel">取消 </string>
+    <string name="toast_calculator">BMI 計算機 </string>
+    <string name="input_error">忘記輸入數字了嗎</string>
+    <string name="homepage_label">首頁</string>
+    <string name="menu_quit">結束</string>
+    <string name="menu_about">關於...</string>
+</resources>
